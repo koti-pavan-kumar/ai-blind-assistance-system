@@ -8,7 +8,7 @@
 ║               Multilingual: English / Telugu / Hindi         ║
 ╚══════════════════════════════════════════════════════════════╝
 
-INSTALL (run once):
+INSTALL (run once):      
     pip install ultralytics opencv-python pywin32 gtts pygame
 
 HOW TO RUN:
