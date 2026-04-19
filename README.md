@@ -9,7 +9,7 @@ Pace Institute of Technology & Sciences, Andhra Pradesh.
 > **Note:** Core decisions — model selection, danger priority logic,
 > proximity detection, CLAHE enhancement, multilingual support,
 > and physical prototype — designed by me. Code developed with AI assistance.
-
+ 
 ---
 
 ## Demo
