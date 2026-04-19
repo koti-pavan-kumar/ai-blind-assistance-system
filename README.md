@@ -14,7 +14,9 @@ Pace Institute of Technology & Sciences, Andhra Pradesh.
 
 ## Demo
 
-![Demo](demo.png)
+![Demo](demo1.png)
+![Demo](demo2.png)
+![Demo](demo3.png)
 
 ---
 
