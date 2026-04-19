@@ -1,9 +1,4 @@
 
-
-
-
-
-
 # AI Blind Assistance System
 
 A real-time object detection system that announces detected objects
@@ -19,7 +14,8 @@ Pace Institute of Technology & Sciences, Andhra Pradesh.
 ---
 
 ## Demo
-https://github.com/user-attachments/assets/8b6c3a00-9b9a-4711-a3f9-b8d5f6fd1a1e
+
+<video src="https://github.com/user-attachments/assets/8b6c3a00-9b9a-4711-a3f9-b8d5f6fd1a1e" controls width="700"></video>
 ![Demo](demo1.png)
 ![Demo](demo2.png)
 ![Demo](demo3.png)
