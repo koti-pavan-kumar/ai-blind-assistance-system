@@ -5,7 +5,7 @@ echo.
 echo ================================================================
 echo   BLIND ASSISTANCE SYSTEM — MULTILINGUAL
 echo   Supported Languages: English / Telugu / Hindi
-echo   TTS Engine         : Google TTS (gTTS) + pygame
+echo   TTS Engine         : Google TTS (gTTS) + pygame 
 echo   Detection Model    : YOLO11n (2024)
 echo ================================================================
 echo.
