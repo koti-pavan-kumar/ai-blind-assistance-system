@@ -14,8 +14,7 @@ Pace Institute of Technology & Sciences, Andhra Pradesh.
 
 ## Demo
 
-> Real-time detection with voice output — person nearby on your left,
-> car very close ahead, path is clear.
+![Demo](demo.png)
 
 ---
 
